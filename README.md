@@ -22,3 +22,5 @@ OUTPUT WRITE-READ
 WP TEMP=-40
 ![WP -40](https://github.com/swayamswroopojha/SRam/assets/130309091/c7c970d9-2401-492a-a800-4557ba00a41e)
 
+ TM TEMP=27
+![TM TEMP=27](https://github.com/swayamswroopojha/SRam/assets/130309091/a39f9881-ed2a-4328-94e2-2b7aceccec51)

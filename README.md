@@ -11,7 +11,9 @@ Overall View
 
 
 
-6T-SRam
+6T-SRam:
+
+
 Here two cross-coupled inverter connected with two access transistor.
 The two access transistor we take nmos.so that overall size should be less. 
 
@@ -19,14 +21,18 @@ The two access transistor we take nmos.so that overall size should be less.
 ![6t sram](https://github.com/swayamswroopojha/SRam/assets/130309091/ac92d55f-e6a1-4757-b0ab-fa48dc483ba4)
 
 
-PRECHARGE
+PRECHARGE:
+
+
 Here we take two pmos.so that we charge the two node upto vdd=1.8v.
 
 
 ![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/1fbfcb33-9d2e-45a0-8dc7-313519576117)
 
 
-SENSE AMP
+SENSE AMP:
+
+
 when their is 10% less voltage in BL OR BLB.the sense amp  can predict the data.
 by which we efficiently manage our speed of operation. 
 
@@ -34,7 +40,8 @@ by which we efficiently manage our speed of operation.
 ![SENSE AMP](https://github.com/swayamswroopojha/SRam/assets/130309091/34bce98d-a572-44de-b37b-809e3d95040f)
 
 
- ROW DECODER
+ ROW DECODER:
+ 
 when the control signal is active then the decoder selects any of row accoding to the address bit.
 
 
@@ -42,7 +49,7 @@ when the control signal is active then the decoder selects any of row accoding t
 
 
 
-OUTPUT WRITE-READ
+OUTPUT WRITE-READ:
 
 
 Here we aasigned two different resistor with different data.then we read the data from the first resistor.
@@ -50,7 +57,7 @@ Here we aasigned two different resistor with different data.then we read the dat
 
 ![OUTPUT WRITE -READ](https://github.com/swayamswroopojha/SRam/assets/130309091/a7b3a7ba-799e-484f-9ca4-3b1c9bd7f5d1)
 
- AT WS TEMP=85
+ AT WS TEMP=85:
  
  AT worst speed and high temp the mobility of electron is less .
  

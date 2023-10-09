@@ -11,6 +11,11 @@ PRECHARGE
 SENSE AMP
 ![SENSE AMP](https://github.com/swayamswroopojha/SRam/assets/130309091/34bce98d-a572-44de-b37b-809e3d95040f)
 
-
 DECODER
 ![decoder](https://github.com/swayamswroopojha/SRam/assets/130309091/cff1b779-d423-4bdd-8dff-9f5f0a2d1e0f)
+
+OUTPUT WRITE-READ
+![OUTPUT WRITE -READ](https://github.com/swayamswroopojha/SRam/assets/130309091/a7b3a7ba-799e-484f-9ca4-3b1c9bd7f5d1)
+
+
+

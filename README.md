@@ -16,6 +16,7 @@ DECODER
 
 OUTPUT WRITE-READ
 ![OUTPUT WRITE -READ](https://github.com/swayamswroopojha/SRam/assets/130309091/a7b3a7ba-799e-484f-9ca4-3b1c9bd7f5d1)
-
+ AT WS TEMP=85
+![MAXIMUM DELAY](https://github.com/swayamswroopojha/SRam/assets/130309091/153f7c65-d4ea-4f20-970f-a3ba419bb1c0)
 
 

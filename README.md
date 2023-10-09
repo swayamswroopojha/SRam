@@ -19,4 +19,6 @@ OUTPUT WRITE-READ
  AT WS TEMP=85
 ![MAXIMUM DELAY](https://github.com/swayamswroopojha/SRam/assets/130309091/153f7c65-d4ea-4f20-970f-a3ba419bb1c0)
 
+WP TEMP=-40
+![WP -40](https://github.com/swayamswroopojha/SRam/assets/130309091/c7c970d9-2401-492a-a800-4557ba00a41e)
 

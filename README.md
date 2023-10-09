@@ -90,7 +90,16 @@ when the control signal is active then the decoder selects any of row accoding t
 OUTPUT WRITE-READ:
 
 
-Here we aasigned two different resistor with different data.then we read the data from the first resistor.
+Here we assigned two different resistor with different data.then we read the data from the first resistor.
+
+ first we make the pc off so that BL AND BLB charge upto 1.8v.
+ 
+ Then  we make the control signal on.according to the address any of the row will be selected in this period of time.
+ 
+ And make the R=0 to write the data to the resistor.
+
+ when we read the data from the resistor then make the control signal on and make R to 1.
+ 
 
 
 ![OUTPUT WRITE -READ](https://github.com/swayamswroopojha/SRam/assets/130309091/a7b3a7ba-799e-484f-9ca4-3b1c9bd7f5d1)

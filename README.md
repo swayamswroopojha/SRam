@@ -1,4 +1,4 @@
-# Design And Development OF 16 byte SRAM circuit using 180nm teachnology
+# Design And Development OF 16 byte SRAM circuit using 180nm Teachnology
 Static Random Access Memory (Static RAM or SRAM) is a type of RAM that holds data in a static form.
 
 SRAM stores a bit of data by using two cross-coupled inverters.

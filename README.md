@@ -1,8 +1,13 @@
 # SRAM
 Static Random Access Memory (Static RAM or SRAM) is a type of RAM that holds data in a static form.
+
 SRAM stores a bit of data by using two cross-coupled inverters.
+
 it doesn't required refreshing like DRAM.
+
 it is used in cache memory.
+
+
 
 
 Overall View 
@@ -54,7 +59,7 @@ TO make the current mirror the  two transistor to be in saturation region.
 
 so that we short-circuit the drain-gate terminal. And size the transistor according to  gm/id = 7.5-9.
 
-And set the output of the differential amp to  the middle value of vdd.
+And set the output of the differential amp to  the middle value of vdd. according to that we make the sizing of differential amp.
 
 when ever their is any change in BL,BLB  then vgs of nmos is different .so that the current flow of two nmos will be different .
 

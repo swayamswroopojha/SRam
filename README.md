@@ -52,7 +52,7 @@ CURRENT MIRROR AND DIFFERENTIAL AMP:
 
 TO make the current mirror the  two transistor to be in saturation region.
 
-so that we short-circuit the drain-gate terminal. And size the transistor according to  gm/id = 7.5.
+so that we short-circuit the drain-gate terminal. And size the transistor according to  gm/id = 7.5-9.
 
 And set the output of the differential amp to  the middle value of vdd.
 

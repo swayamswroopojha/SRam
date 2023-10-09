@@ -11,11 +11,19 @@ Overall View
 
 
 
-6T-SRam:
+6T-SRAM:
 
 
 Here two cross-coupled inverter connected with two access transistor.
-The two access transistor we take nmos.so that overall size should be less. 
+
+The two access transistor we take nmos.so that overall size should be less.
+
+The two access transistor is connected to precharge circuit. 
+
+when we read the data then the access transistor is ON.so that one node of precharge circuit connected to ground.
+
+And another node is connected to vdd.by which we read the data.
+
 
 
 ![6t sram](https://github.com/swayamswroopojha/SRam/assets/130309091/ac92d55f-e6a1-4757-b0ab-fa48dc483ba4)
@@ -24,7 +32,11 @@ The two access transistor we take nmos.so that overall size should be less.
 PRECHARGE:
 
 
-Here we take two pmos.so that we charge the two node upto vdd=1.8v.
+Here we take two pmos.so that we charge the two node BL ,BLB  upto vdd=1.8v.
+
+when ever their is read or write operation before that we must be ON the pc signal.
+
+ To charge the node of access transistor quick.we take the width of the transistor high.
 
 
 ![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/1fbfcb33-9d2e-45a0-8dc7-313519576117)
@@ -34,7 +46,28 @@ SENSE AMP:
 
 
 when their is 10% less voltage in BL OR BLB.the sense amp  can predict the data.
-by which we efficiently manage our speed of operation. 
+by which we efficiently manage our speed of operation.
+
+CURRENT MIRROR AND DIFFERENTIAL AMP:
+
+TO make the current mirror the  two transistor to be in saturation region.
+
+so that we short-circuit the drain-gate terminal. And size the transistor according to  gm/id = 7.5.
+
+And set the output of the differential amp to  the middle value of vdd.
+
+when ever their is any change in BL,BLB  then vgs of nmos is different .so that the current flow of two nmos will be different .
+
+according to that we findout weather 1 is stored or 0 is stored.
+
+Let assume BL is less than vdd .BLB is equal to vdd. so that the vgs value of nmos connected to the BL is less.
+
+so that current is less.to make the kcl satisfy the  BLB is more .so the currrent is flowing from the inverter side to the nmos.
+
+we designed the first inverter in such a way that when ever their is any small change in the middle value .then the output is largely vary.
+
+after that we connected to another inverter to take the output. 
+
 
 
 ![SENSE AMP](https://github.com/swayamswroopojha/SRam/assets/130309091/34bce98d-a572-44de-b37b-809e3d95040f)

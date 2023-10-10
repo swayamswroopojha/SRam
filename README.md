@@ -83,7 +83,12 @@ after that we connected to another inverter to take the output.
 when the control signal is active then the decoder selects any of row accoding to the address bit.
 
 
-![decoder](https://github.com/swayamswroopojha/SRam/assets/130309091/cff1b779-d423-4bdd-8dff-9f5f0a2d1e0f)
+![decoder](https://github.com/swayamswroopojha/SRam/assets/130309091/cff1b779-d423-4bdd-8dff-9f5f0a2d1e0f) 
+
+
+
+![Screenshot from 2023-10-10 11-16-24](https://github.com/swayamswroopojha/SRam/assets/130309091/e67ae054-12ad-4a67-857a-bc6bc5c4ae00)
+
 
 
 

@@ -10,7 +10,6 @@ it is used in cache memory.
 
 
 Overall View 
-![[Untitled Diagram.pdf](https://github.com/swayamswroopojha/SRam/files/12855692/Untitled.Diagram.pdf)
 
 overall view](https://github.com/swayamswroopojha/SRam/assets/130309091/b9ccd5e9-0d44-4ce3-bab4-d19fe9b89321)
 

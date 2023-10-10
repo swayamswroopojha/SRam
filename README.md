@@ -6,7 +6,7 @@ SRAM stores a bit of data by using two cross-coupled inverters.
 it doesn't required refreshing like DRAM.
 
 it is used in cache memory.
-![6T Diagram_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/b9f2214c-e22c-4093-89e6-19aa08669c9d)
+(https://github.com/swayamswroopojha/SRam/assets/130309091/b9f2214c-e22c-4093-89e6-19aa08669c9d)
 
 
 Overall View 

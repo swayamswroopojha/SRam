@@ -16,7 +16,7 @@ Overall View
 
 
 
-6T-SRAM:
+# 6T-SRAM:
 
 
 Here two cross-coupled inverter connected with two access transistor.
@@ -34,7 +34,7 @@ And another node is connected to vdd.by which we read the data.
 ![6t sram](https://github.com/swayamswroopojha/SRam/assets/130309091/ac92d55f-e6a1-4757-b0ab-fa48dc483ba4)
 
 
-PRECHARGE:
+# PRECHARGE:
 
 
 Here we take two pmos.so that we charge the two node BL ,BLB  upto vdd=1.8v.
@@ -47,7 +47,7 @@ when ever their is read or write operation before that we must be ON the pc sign
 ![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/1fbfcb33-9d2e-45a0-8dc7-313519576117)
 
 
-SENSE AMP:
+# SENSE AMP:
 
 
 when their is 10% less voltage in BL OR BLB.the sense amp  can predict the data.
@@ -78,7 +78,7 @@ after that we connected to another inverter to take the output.
 ![SENSE AMP](https://github.com/swayamswroopojha/SRam/assets/130309091/34bce98d-a572-44de-b37b-809e3d95040f)
 
 
- ROW DECODER:
+ # ROW DECODER:
  
 when the control signal is active then the decoder selects any of row accoding to the address bit.
 
@@ -87,7 +87,7 @@ when the control signal is active then the decoder selects any of row accoding t
 
 
 
-OUTPUT WRITE-READ:
+# OUTPUT WRITE-READ:
 
 
 Here we assigned two different resistor with different data.then we read the data from the first resistor.

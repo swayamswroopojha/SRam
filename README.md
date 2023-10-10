@@ -87,11 +87,6 @@ when the control signal is active then the decoder selects any of row accoding t
 
 
 
-![Screenshot from 2023-10-10 11-16-24](https://github.com/swayamswroopojha/SRam/assets/130309091/e67ae054-12ad-4a67-857a-bc6bc5c4ae00)
-
-
-
-
 # OUTPUT WRITE-READ:
 
 

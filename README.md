@@ -92,7 +92,9 @@ after that we connected to another inverter to take the output.
  # ROW DECODER:
 
 
--> Here we have design 4:16 decoder using standard cell to select any of the column.
+-> Here we have design 4:16 decoder using standard cell to select any of the row.
+
+-> like example if we make the address 4-bit to 0,then first row is activated or if we make the address 4-bit to 1 then 15th row will be selected.  
 
 -> Here we have used control signal.
 

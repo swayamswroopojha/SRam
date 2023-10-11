@@ -9,11 +9,11 @@ it is used in cache memory.
 
 
 Overall View 
+![overall view_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/ff7abd9f-c829-4a87-a6e2-251a11e0cbce)
+
 
 ![overall view](https://github.com/swayamswroopojha/SRam/assets/130309091/b9ccd5e9-0d44-4ce3-bab4-d19fe9b89321)
 
-
-![overall view_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/ff7abd9f-c829-4a87-a6e2-251a11e0cbce)
 
 
 
@@ -50,7 +50,9 @@ when ever their is read or write operation before that we must be ON the pc sign
 
  To charge the node of access transistor quick.we take the width of the transistor high.
 
-![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/7ac225b7-7876-45dd-8f77-36fd351e252f)
+ 
+![pre_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/b6635918-5b73-4151-96de-a77b5e8c4632)
+
 
 
 ![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/1fbfcb33-9d2e-45a0-8dc7-313519576117)

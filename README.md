@@ -13,6 +13,9 @@ Overall View
 ![overall view](https://github.com/swayamswroopojha/SRam/assets/130309091/b9ccd5e9-0d44-4ce3-bab4-d19fe9b89321)
 
 
+![overall view_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/ff7abd9f-c829-4a87-a6e2-251a11e0cbce)
+
+
 
 
 
@@ -31,6 +34,9 @@ when we read the data then the access transistor is ON.so that one node of prech
 And another node is connected to vdd.by which we read the data.
 
 
+![6tt_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/751cf073-dd2c-4d1e-bf3f-bd84638c1825)
+
+
 
 ![6t sram](https://github.com/swayamswroopojha/SRam/assets/130309091/ac92d55f-e6a1-4757-b0ab-fa48dc483ba4)
 
@@ -43,6 +49,8 @@ Here we take two pmos.so that we charge the two node BL ,BLB  upto vdd=1.8v.
 when ever their is read or write operation before that we must be ON the pc signal.
 
  To charge the node of access transistor quick.we take the width of the transistor high.
+
+![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/7ac225b7-7876-45dd-8f77-36fd351e252f)
 
 
 ![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/1fbfcb33-9d2e-45a0-8dc7-313519576117)
@@ -79,6 +87,9 @@ after that we connected to another inverter to take the output.
 ![SENSE AMP](https://github.com/swayamswroopojha/SRam/assets/130309091/34bce98d-a572-44de-b37b-809e3d95040f)
 
 
+![SEN1_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/1cb3a61c-fcee-4783-a059-04d3a9177f3e)
+
+
  # ROW DECODER:
  
 when the control signal is active then the decoder selects any of row accoding to the address bit.
@@ -89,7 +100,6 @@ when the control signal is active then the decoder selects any of row accoding t
 
 
 # OUTPUT WRITE-READ:
-
 
 Here we assigned two different resistor with different data.then we read the data from the first resistor.
 

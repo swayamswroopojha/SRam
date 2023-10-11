@@ -9,7 +9,7 @@ it is used in cache memory.
 
 
 Overall View 
-![overall view_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/ff7abd9f-c829-4a87-a6e2-251a11e0cbce)
+![overall view_page-0001 (2)](https://github.com/swayamswroopojha/SRam/assets/130309091/30eb2d0f-3836-4ff3-b53d-7e338af2f9a3)
 
 
 ![overall view](https://github.com/swayamswroopojha/SRam/assets/130309091/b9ccd5e9-0d44-4ce3-bab4-d19fe9b89321)
@@ -33,9 +33,7 @@ when we read the data then the access transistor is ON.so that one node of prech
 
 And another node is connected to vdd.by which we read the data.
 
-
-![6tt_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/751cf073-dd2c-4d1e-bf3f-bd84638c1825)
-
+![6tt_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/785b6f54-c2e8-413c-be23-ae37ce733d5e)
 
 
 ![6t sram](https://github.com/swayamswroopojha/SRam/assets/130309091/ac92d55f-e6a1-4757-b0ab-fa48dc483ba4)
@@ -51,7 +49,8 @@ when ever their is read or write operation before that we must be ON the pc sign
  To charge the node of access transistor quick.we take the width of the transistor high.
 
  
-![pre_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/b6635918-5b73-4151-96de-a77b5e8c4632)
+
+![pre_page-0001 (2)](https://github.com/swayamswroopojha/SRam/assets/130309091/ad5ed771-5416-40c3-a5af-c55b77038dcf)
 
 
 
@@ -86,10 +85,11 @@ after that we connected to another inverter to take the output.
 
 
 
+![SEN1_page-0001 (2)](https://github.com/swayamswroopojha/SRam/assets/130309091/28409acc-6ba1-473d-8923-602d774f9016)
+
+
 ![SENSE AMP](https://github.com/swayamswroopojha/SRam/assets/130309091/34bce98d-a572-44de-b37b-809e3d95040f)
 
-
-![SEN1_page-0001](https://github.com/swayamswroopojha/SRam/assets/130309091/1cb3a61c-fcee-4783-a059-04d3a9177f3e)
 
 
  # ROW DECODER:

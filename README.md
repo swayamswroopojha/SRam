@@ -94,11 +94,15 @@ after that we connected to another inverter to take the output.
 
 -> Here we have design 4:16 decoder using standard cell to select any of the row.
 
--> like example if we make the address 4-bit to 0,then first row is activated or if we make the address 4-bit to 1 then 15th row will be selected.  
 
 -> Here we have used control signal.
 
+
 -> when the control signal is active then the decoder selects any of row accoding to the address bit.
+
+
+-> like example if we make the address 4-bit to 0,then first row is activated or if we make the address 4-bit to 1 then 15th row will be selected.  
+
 
 
 ![decoder](https://github.com/swayamswroopojha/SRam/assets/130309091/cff1b779-d423-4bdd-8dff-9f5f0a2d1e0f) 
@@ -129,7 +133,14 @@ after that we connected to another inverter to take the output.
  
 ![MAXIMUM DELAY](https://github.com/swayamswroopojha/SRam/assets/130309091/153f7c65-d4ea-4f20-970f-a3ba419bb1c0)
 
-WP TEMP=-40
+
+ TM TEMP=27:
+
+ 
+![TM TEMP=27](https://github.com/swayamswroopojha/SRam/assets/130309091/a39f9881-ed2a-4328-94e2-2b7aceccec51)
+
+
+WP TEMP=-40:
 
 AT worst power and low temp the mobility is more 
 
@@ -137,9 +148,4 @@ so that the delay is less.
 
 ![WP -40](https://github.com/swayamswroopojha/SRam/assets/130309091/c7c970d9-2401-492a-a800-4557ba00a41e)
 
-
- TM TEMP=27
-
- 
-![TM TEMP=27](https://github.com/swayamswroopojha/SRam/assets/130309091/a39f9881-ed2a-4328-94e2-2b7aceccec51)
 

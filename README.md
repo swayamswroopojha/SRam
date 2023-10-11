@@ -93,7 +93,9 @@ after that we connected to another inverter to take the output.
 
 
 -> Here we have design 4:16 decoder using standard cell to select any of the column.
+
 -> Here we have used control signal.
+
 -> when the control signal is active then the decoder selects any of row accoding to the address bit.
 
 

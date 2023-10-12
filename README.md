@@ -77,7 +77,8 @@ Here m3 is in saturaion,m1 is in linear.
 
 -> To charge the node of access transistor quick.we take the width of the transistor high.
 
- 
+ ![Screenshot from 2023-10-06 15-31-48](https://github.com/swayamswroopojha/SRam/assets/130309091/da80e48e-ea17-4a39-a428-edd29d55d3cb)
+
 
 ![pre_page-0001 (2)](https://github.com/swayamswroopojha/SRam/assets/130309091/ad5ed771-5416-40c3-a5af-c55b77038dcf)
 

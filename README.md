@@ -35,7 +35,7 @@ Overall View
 
 ![6t sram](https://github.com/swayamswroopojha/SRam/assets/130309091/ac92d55f-e6a1-4757-b0ab-fa48dc483ba4)
 
-->write
+# write
 
 ![273767982-f6b08e97-d7b7-4e97-850e-75970814fb40](https://github.com/swayamswroopojha/SRam/assets/130309091/3d315db1-f48b-462b-8147-8c1af02e0c21)
 
@@ -46,7 +46,7 @@ Here transistor m5 in saturation m3 is in linear.
 ![download (1)](https://github.com/swayamswroopojha/SRam/assets/130309091/02cf01d6-b85c-47c1-9943-47a8a01b622f)
 
 
-->read
+# read
 
 ![273768085-1874556d-4508-41e1-ae91-1c91b54084a2](https://github.com/swayamswroopojha/SRam/assets/130309091/b16a5a9c-391e-471c-878b-3dd77b246bfb)
 

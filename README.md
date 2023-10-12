@@ -66,6 +66,7 @@ Here m3 is in saturaion,m1 is in linear.
 ![download (4)](https://github.com/swayamswroopojha/SRam/assets/130309091/3d14a859-1acf-4197-b5fb-d5d0d69cffa0)
 ![download (3)](https://github.com/swayamswroopojha/SRam/assets/130309091/7ed09c3e-24ef-429a-b72b-44aa5224ae3d)
 
+![Screenshot from 2023-10-06 15-31-48](https://github.com/swayamswroopojha/SRam/assets/130309091/e8724331-0c10-4a84-a4f2-297f0a05fe65)
 
 # PRECHARGE:
 

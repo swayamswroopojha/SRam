@@ -66,9 +66,9 @@ Here m3 is in saturaion,m1 is in linear.
 ![download (4)](https://github.com/swayamswroopojha/SRam/assets/130309091/3d14a859-1acf-4197-b5fb-d5d0d69cffa0)
 ![download (3)](https://github.com/swayamswroopojha/SRam/assets/130309091/7ed09c3e-24ef-429a-b72b-44aa5224ae3d)
 
-![Screenshot from 2023-10-06 15-31-48](https://github.com/swayamswroopojha/SRam/assets/130309091/e8724331-0c10-4a84-a4f2-297f0a05fe65)
 
 # PRECHARGE:
+![Screenshot from 2023-10-06 15-31-48](https://github.com/swayamswroopojha/SRam/assets/130309091/3feca98a-f129-416a-974e-f46e7d136b57)
 
 
 -> Here we take two pmos.so that we charge the two node BL ,BLB  upto vdd=1.8v.
@@ -77,7 +77,6 @@ Here m3 is in saturaion,m1 is in linear.
 
 -> To charge the node of access transistor quick.we take the width of the transistor high.
 
- ![Screenshot from 2023-10-06 15-31-48](https://github.com/swayamswroopojha/SRam/assets/130309091/da80e48e-ea17-4a39-a428-edd29d55d3cb)
 
 
 ![pre_page-0001 (2)](https://github.com/swayamswroopojha/SRam/assets/130309091/ad5ed771-5416-40c3-a5af-c55b77038dcf)
@@ -85,6 +84,8 @@ Here m3 is in saturaion,m1 is in linear.
 
 
 ![PRECHARGE](https://github.com/swayamswroopojha/SRam/assets/130309091/1fbfcb33-9d2e-45a0-8dc7-313519576117)
+![Screenshot from 2023-10-06 15-31-48](https://github.com/swayamswroopojha/SRam/assets/130309091/3feca98a-f129-416a-974e-f46e7d136b57)
+
 
 
 # SENSE AMP:

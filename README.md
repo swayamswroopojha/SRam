@@ -35,19 +35,22 @@ Overall View
 
 ![6t sram](https://github.com/swayamswroopojha/SRam/assets/130309091/ac92d55f-e6a1-4757-b0ab-fa48dc483ba4)
 
-
+->write
 
 ![273767982-f6b08e97-d7b7-4e97-850e-75970814fb40](https://github.com/swayamswroopojha/SRam/assets/130309091/3d315db1-f48b-462b-8147-8c1af02e0c21)
 
-![273768085-1874556d-4508-41e1-ae91-1c91b54084a2](https://github.com/swayamswroopojha/SRam/assets/130309091/b16a5a9c-391e-471c-878b-3dd77b246bfb)
-
-
-![download (4)](https://github.com/swayamswroopojha/SRam/assets/130309091/3d14a859-1acf-4197-b5fb-d5d0d69cffa0)
-![download (3)](https://github.com/swayamswroopojha/SRam/assets/130309091/7ed09c3e-24ef-429a-b72b-44aa5224ae3d)
 ![download (2)](https://github.com/swayamswroopojha/SRam/assets/130309091/b5b5f8bd-6787-4770-946d-f42fc999673c)
 ![download](https://github.com/swayamswroopojha/SRam/assets/130309091/8f9dd398-7ca0-4b07-b339-fe0db10d41da)
 ![download (1)](https://github.com/swayamswroopojha/SRam/assets/130309091/02cf01d6-b85c-47c1-9943-47a8a01b622f)
+
+
+->read
+![273768085-1874556d-4508-41e1-ae91-1c91b54084a2](https://github.com/swayamswroopojha/SRam/assets/130309091/b16a5a9c-391e-471c-878b-3dd77b246bfb)
+
 ![download (5)](https://github.com/swayamswroopojha/SRam/assets/130309091/4d61ab50-0af1-4406-88d1-f1bb76dfc757)
+![download (4)](https://github.com/swayamswroopojha/SRam/assets/130309091/3d14a859-1acf-4197-b5fb-d5d0d69cffa0)
+![download (3)](https://github.com/swayamswroopojha/SRam/assets/130309091/7ed09c3e-24ef-429a-b72b-44aa5224ae3d)
+
 
 # PRECHARGE:
 

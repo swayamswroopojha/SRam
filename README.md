@@ -68,6 +68,8 @@ Here m3 is in saturaion,m1 is in linear.
 
 
 # PRECHARGE:
+![Screenshot from 2023-10-12 11-13-10](https://github.com/swayamswroopojha/SRam/assets/130309091/4eecb39b-2d0c-448c-b092-ea57b3e628a1)
+
 
 -> Here we take two pmos.so that we charge the two node BL ,BLB  upto vdd=1.8v.
 

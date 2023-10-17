@@ -154,6 +154,9 @@ after that we connected to another inverter to take the output.
  <img width="644" alt="Screenshot 2023-10-17 13 52 48" src="https://github.com/swayamswroopojha/SRam/assets/130309091/b5cd2451-6e56-4ebd-905e-890b76ee26b3">
 
  
+![Screenshot from 2023-10-17 15-08-10](https://github.com/swayamswroopojha/SRam/assets/130309091/b8708f85-f5a8-4543-8f37-8fc60fb8c8a5)
+
+ 
 
 
 ![OUTPUT WRITE -READ](https://github.com/swayamswroopojha/SRam/assets/130309091/a7b3a7ba-799e-484f-9ca4-3b1c9bd7f5d1)

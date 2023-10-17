@@ -1,4 +1,4 @@
-# Design and Development of 16-byte SRAM Circuit using 180nm Teachnology
+# Design and Development of 16-byte SRAM Circuit using 180nm Technology
 Static Random Access Memory (Static RAM or SRAM) is a type of RAM that holds data in a static form.SRAM stores a bit of data by using two cross-coupled inverters.
 here we have designed 16-byte memory.at a time we read or write 8-bit of data.when we have read the data first we turn in the access transistor.
 so their will be a potential difference between BL and BLB.According to that we read the data weather it is 1 or 0.To fast this sram we used 
@@ -149,6 +149,10 @@ after that we connected to another inverter to take the output.
  -> And make the R=0 to write the data to the resistor.
 
  -> when we read the data from the resistor then make the control signal on and make R to 1.
+ 
+
+ <img width="644" alt="Screenshot 2023-10-17 13 52 48" src="https://github.com/swayamswroopojha/SRam/assets/130309091/b5cd2451-6e56-4ebd-905e-890b76ee26b3">
+
  
 [New Microsoft PowerPoint Presentation.pptx](https://github.com/swayamswroopojha/SRam/files/12926169/New.Microsoft.PowerPoint.Presentation.pptx)
 

@@ -150,6 +150,7 @@ after that we connected to another inverter to take the output.
 
  -> when we read the data from the resistor then make the control signal on and make R to 1.
  
+[New Microsoft PowerPoint Presentation.pptx](https://github.com/swayamswroopojha/SRam/files/12926169/New.Microsoft.PowerPoint.Presentation.pptx)
 
 
 ![OUTPUT WRITE -READ](https://github.com/swayamswroopojha/SRam/assets/130309091/a7b3a7ba-799e-484f-9ca4-3b1c9bd7f5d1)

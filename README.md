@@ -154,7 +154,6 @@ after that we connected to another inverter to take the output.
  <img width="644" alt="Screenshot 2023-10-17 13 52 48" src="https://github.com/swayamswroopojha/SRam/assets/130309091/b5cd2451-6e56-4ebd-905e-890b76ee26b3">
 
  
-[New Microsoft PowerPoint Presentation.pptx](https://github.com/swayamswroopojha/SRam/files/12926169/New.Microsoft.PowerPoint.Presentation.pptx)
 
 
 ![OUTPUT WRITE -READ](https://github.com/swayamswroopojha/SRam/assets/130309091/a7b3a7ba-799e-484f-9ca4-3b1c9bd7f5d1)

@@ -169,6 +169,7 @@ after that we connected to another inverter to take the output.
  
 ![TM TEMP=27](https://github.com/swayamswroopojha/SRam/assets/130309091/a39f9881-ed2a-4328-94e2-2b7aceccec51)
 
+<img width="644" alt="Screenshot 2023-10-17 13 52 48" src="https://github.com/swayamswroopojha/SRam/assets/130309091/b5cd2451-6e56-4ebd-905e-890b76ee26b3">
 
 WP TEMP=-40:
 
